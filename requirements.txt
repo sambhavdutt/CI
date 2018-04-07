@@ -1,4 +1,0 @@
-lfdocs-conf
-sphinx>=1.6.4
-sphinxcontrib-programoutput
-sphinx_bootstrap_theme>=0.6.0

@@ -3,7 +3,7 @@
 
 # Ignore changes to the JJB Configuration File
 jenkins.ini
-
+docs/build/*
 # Maven
 target/
 
