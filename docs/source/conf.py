@@ -149,7 +149,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'ci-management.tex', u'ci-management Documentation',
-     u'Ramesh Babu Thoomu', 'manual'),
+     u'Hyperledger Fabric CI', 'manual'),
 ]
 
 
@@ -181,4 +181,5 @@ texinfo_documents = [
 
 # Example configuration for intersphinx: refer to the Python standard library.
 intersphinx_mapping = {'https://docs.python.org/': None}
+
 

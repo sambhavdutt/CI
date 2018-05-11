@@ -6,6 +6,7 @@ jenkins.ini
 
 # Maven
 target/
+docs/build/*
 
 # Vagrant
 .vagrant

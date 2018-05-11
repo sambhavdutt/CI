@@ -1,0 +1,7 @@
+lfdocs-conf
+sphinxcontrib-programoutput
+sphinx_bootstrap_theme>=0.6.0
+python-markdown-math==0.2
+Sphinx==1.7.2
+sphinx-rtd-theme==0.3.0
+recommonmark==0.4.0
